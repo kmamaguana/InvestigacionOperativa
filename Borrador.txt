@@ -1,0 +1,4 @@
+    elif sub_option == "Flujo de costo mínimo":
+        flujo_de_costo_minimo()
+
+    , "Flujo de costo mínimo"
